@@ -2,8 +2,8 @@
 
 
 $servername = "localhost";
-$username = "root";
-$password = "your_root_password";
+$username = "admin";
+$password = "admin172";
 $dbname = "exam_hall";
 
 
